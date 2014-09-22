@@ -1,0 +1,31 @@
+{
+  "name": "format-date",
+  "version": "0.0.0",
+  "description": "Takes a string and a date object, returns what you expect",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "date",
+    "datetime",
+    "strftime",
+    "format",
+    "time"
+  ],
+  "repository": {
+    "url": "git@github.com:azer/format-date.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD",
+  "dependencies": {
+    "format-text": "0.0.3",
+    "left-pad": "0.0.3",
+    "days": "^0.1.0",
+    "months": "^0.1.0"
+  },
+  "devDependencies": {
+    "prova": "^1.14.2"
+  }
+}
