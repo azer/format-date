@@ -13,7 +13,7 @@ formatDate('{month}/{day}/{year}', new Date);
 formatDate('{hours}:{minutes}:{seconds} {day-name}', new Date);
 // => 13:30:53 Monday
 
-formatDate('{month-name} {year}')
+formatDate('{month-name} {year}', new Date)
 // => January 2014
 ```
 
