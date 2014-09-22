@@ -25,7 +25,6 @@ $ npm install format-date
 
 ## Reference
 
-```js
 * day
 * day-name
 * month
@@ -34,4 +33,3 @@ $ npm install format-date
 * hours
 * minutes
 * seconds
-```
