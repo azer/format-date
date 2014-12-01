@@ -1,6 +1,6 @@
 {
   "name": "format-date",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Takes a string and a date object, returns what you expect",
   "main": "index.js",
   "scripts": {
