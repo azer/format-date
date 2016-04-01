@@ -20,7 +20,7 @@
   "author": "azer",
   "license": "BSD",
   "dependencies": {
-    "azer/format-text": "0.0.3",
+    "format-text": "azer/format-text",
     "left-pad": "0.0.3",
     "days": "^0.1.0",
     "months": "^0.1.0"
